@@ -55,6 +55,7 @@
 <body>
     <h1 align="center">Home Page</h1>
     <h2 align="center"> Welcome to DevOps </h2>
+    <h1 align="center"> WELCOME TO M32 BATCH </h1>
     <% 
     List<Task> tasks = (List<Task>) request.getAttribute("tasks"); 
     %>
