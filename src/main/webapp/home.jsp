@@ -54,6 +54,7 @@
 </head>
 <body>
     <h1 align="center">Home Page</h1>
+    <h2> Welcome to DevOps </h2>
     <% 
     List<Task> tasks = (List<Task>) request.getAttribute("tasks"); 
     %>
